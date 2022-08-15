@@ -11,6 +11,8 @@ Shown are the stock closing price and volume of Google, Apple, Tesla, or any Com
 """)
 
 
+#pruebas
+
 #symbol selector
 options = st.selectbox('Symbol',options=['GOOGL','AAPL','TSLA','Other'])
 #if other is selected, a single line text input appears
